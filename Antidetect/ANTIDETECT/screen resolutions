@@ -1,0 +1,137 @@
+1)iMac (Mid 2010) 						Jul 2010 	10.6.4 		Resolution: 1920x1080
+-----------------------------------------------------------------------------------------
+2)Mac mini (Mid 2010) 					Jun 2010 	10.6.4 		Resolution: support all to 1920x1200 HDMI port
+3)Mac Pro (Mid 2010) 					Aug 2010 	10.6.4 		Support all to 2560x1600
+------------------------------------------------------------------------------------------
+4)MacBook Pro (15-inch, Mid 2010) 		Apr 2010 	10.6.4 		Resolution:1440x900 (native)
+5)MacBook Pro (17-inch, Early 2011) 	Feb 2011 	10.6.6 		Resolution:1920x1200 (native), 1680x1050,
+-------------------------------------------------------------------------------------------
+6)MacBook Air (13-inch, Late 2010) 		Oct 2010 	10.6.5 		Resolution:1440x900 (native)
+
+1024x768 :
+		"availHeight": 768,
+		"availLeft": 1024,
+		"availTop": 768,
+		"availWidth": 1024,
+		"clientHeight": 768,
+		"clientWidth": 1024,
+		"colorDepth": 32,
+		"height": 768,
+		"left": 1024,
+		"offsetHeight": 768,
+		"offsetWidth": 1024,
+		"pixelDepth": 32,
+		"top": 768,
+		"width": 1024
+
+1280x1024 :
+		"availHeight": 1024,
+		"availLeft": 1280,
+		"availTop": 1024,
+		"availWidth": 1280,
+		"clientHeight": 1024,
+		"clientWidth": 1280,
+		"colorDepth": 32,
+		"height": 1024,
+		"left": 1280,
+		"offsetHeight": 1024,
+		"offsetWidth": 1280,
+		"pixelDepth": 32,
+		"top": 1024,
+		"width": 1280
+		
+1360x768 :
+		"availHeight": 768,
+		"availLeft": 1360,
+		"availTop": 768,
+		"availWidth": 1360,
+		"clientHeight": 768,
+		"clientWidth": 1360,
+		"colorDepth": 32,
+		"height": 768,
+		"left": 1360,
+		"offsetHeight": 768,
+		"offsetWidth": 1360,
+		"pixelDepth": 32,
+		"top": 768,
+		"width": 1360
+		
+1600x900 :
+		"availHeight": 900,
+		"availLeft": 1600,
+		"availTop": 900,
+		"availWidth": 1600,
+		"clientHeight": 900,
+		"clientWidth": 1600,
+		"colorDepth": 32,
+		"height": 900,
+		"left": 1600,
+		"offsetHeight": 900,
+		"offsetWidth": 1600,
+		"pixelDepth": 32,
+		"top": 900,
+		"width": 1600
+----		
+1920x1080 :		
+		"availHeight": 1080,
+		"availLeft": 1920,
+		"availTop": 1080,
+		"availWidth": 1920,
+		"clientHeight": 1080,
+		"clientWidth": 1920,
+		"colorDepth": 32,
+		"height": 1080,
+		"left": 1920,
+		"offsetHeight": 1080,
+		"offsetWidth": 1920,
+		"pixelDepth": 32,
+		"top": 1080,
+		"width": 1920
+		
+1920x1200 :
+		"availHeight": 1200,
+		"availLeft": 1920,
+		"availTop": 1200,
+		"availWidth": 1920,
+		"clientHeight": 1200,
+		"clientWidth": 1920,
+		"colorDepth": 32,
+		"height": 1200,
+		"left": 1920,
+		"offsetHeight": 1200,
+		"offsetWidth": 1920,
+		"pixelDepth": 32,
+		"top": 1200,
+		"width": 1920
+
+1680x1050 :		
+		"availHeight": 1050,
+		"availLeft": 1680,
+		"availTop": 1050,
+		"availWidth": 1680,
+		"clientHeight": 1050,
+		"clientWidth": 1680,
+		"colorDepth": 32,
+		"height": 1050,
+		"left": 1680,
+		"offsetHeight": 1050,
+		"offsetWidth": 1680,
+		"pixelDepth": 32,
+		"top": 1050,
+		"width": 1680
+
+1440x900 : 
+		"availHeight": 900,
+		"availLeft": 1440,
+		"availTop": 900,
+		"availWidth": 1440,
+		"clientHeight": 900,
+		"clientWidth": 1440,
+		"colorDepth": 32,
+		"height": 900,
+		"left": 1440,
+		"offsetHeight": 900,
+		"offsetWidth": 1440,
+		"pixelDepth": 32,
+		"top": 900,
+		"width": 1440		

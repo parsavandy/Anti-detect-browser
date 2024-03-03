@@ -1,0 +1,10 @@
+Performing a replace request
+SOURCE DIRECTORY C:\Documents and Settings\john\Local Settings\Application Data\Mozilla\Firefox\firefox\updates\0
+DESTINATION DIRECTORY d:\accounts & cc\Antidetect & browser defaults\browser\App\firefox\updated
+Begin moving sourceDir (d:\accounts & cc\Antidetect & browser defaults\browser\App\Firefox) to tmpDir (d:\accounts & cc\Antidetect & browser defaults\browser\App\Firefox.bak)
+rename_file: proceeding to rename the directory
+Begin moving newDir (d:\accounts & cc\Antidetect & browser defaults\browser\App\firefox.bak/updated) to sourceDir (d:\accounts & cc\Antidetect & browser defaults\browser\App\Firefox)
+rename_file: proceeding to rename the directory
+Now, remove the tmpDir
+succeeded
+calling QuitProgressUI

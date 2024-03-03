@@ -1,0 +1,23 @@
+content clearrecenthistory                 jar:chrome/clearrecenthistory.jar!/content/
+skin    clearrecenthistory   classic/1.0   jar:chrome/clearrecenthistory.jar!/skin/
+locale  clearrecenthistory   de            jar:chrome/clearrecenthistory.jar!/locale/de/
+locale  clearrecenthistory   en-US         jar:chrome/clearrecenthistory.jar!/locale/en-US/
+locale  clearrecenthistory   fr            jar:chrome/clearrecenthistory.jar!/locale/fr/
+locale  clearrecenthistory   it            jar:chrome/clearrecenthistory.jar!/locale/it/
+locale  clearrecenthistory   es-ES         jar:chrome/clearrecenthistory.jar!/locale/es-ES/
+locale  clearrecenthistory   es-AR         jar:chrome/clearrecenthistory.jar!/locale/es-AR/
+locale  clearrecenthistory   es-MX         jar:chrome/clearrecenthistory.jar!/locale/es-MX/
+locale  clearrecenthistory   pt-PT         jar:chrome/clearrecenthistory.jar!/locale/pt-PT/
+locale  clearrecenthistory   pt-BR         jar:chrome/clearrecenthistory.jar!/locale/pt-BR/
+locale  clearrecenthistory   hu            jar:chrome/clearrecenthistory.jar!/locale/hu/
+locale  clearrecenthistory   cs            jar:chrome/clearrecenthistory.jar!/locale/cs/
+locale  clearrecenthistory   da            jar:chrome/clearrecenthistory.jar!/locale/da/
+locale  clearrecenthistory   fi            jar:chrome/clearrecenthistory.jar!/locale/fi/
+locale  clearrecenthistory   nl            jar:chrome/clearrecenthistory.jar!/locale/nl/
+locale  clearrecenthistory   pl            jar:chrome/clearrecenthistory.jar!/locale/pl/
+locale  clearrecenthistory   sv-SE         jar:chrome/clearrecenthistory.jar!/locale/sv-SE/
+locale  clearrecenthistory   sk            jar:chrome/clearrecenthistory.jar!/locale/sk/
+locale  clearrecenthistory   ru            jar:chrome/clearrecenthistory.jar!/locale/ru/
+locale  clearrecenthistory   tr            jar:chrome/clearrecenthistory.jar!/locale/tr/
+overlay chrome://browser/content/browser.xul   chrome://clearrecenthistory/content/clearrecenthistoryOverlay.xul
+style   chrome://global/content/customizeToolbar.xul    chrome://clearrecenthistory/skin/clearrecenthistory.css

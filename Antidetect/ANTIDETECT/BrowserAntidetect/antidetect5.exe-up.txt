@@ -1,0 +1,3 @@
+windows error An attempt was made to move the file pointer before the beginning of the file.
+
+  at D:\Projects\My.SRC\Teggo\MoleBox\molebox2\bootup\boxmanager.cpp(283)

@@ -1,0 +1,98 @@
+{
+  "window.screen": { 
+		"availHeight": 768,
+		"availLeft": 1360,
+		"availTop": 768,
+		"availWidth": 1360,
+		"clientHeight": 768,
+		"clientWidth": 1360,
+		"colorDepth": 32,
+		"height": 768,
+		"left": 1360,
+		"offsetHeight": 768,
+		"offsetWidth": 1360,
+		"pixelDepth": 32,
+		"top": 768,
+		"width": 1360
+  },
+  "window.navigator": { 
+  		"userAgent": "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36",
+  		"appCodeName": "Mozilla",
+  		"appName": "Netscape",
+  		"appVersion": "5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/38.0.2125.101 Safari/537.36",
+  		"language": "en-US",
+  		"platform": "Win32",
+		"oscpu": "Windows NT 6.1",
+  		"vendor": "Google Inc.",
+  		"vendorSub": "",
+  		"product": "Gecko",
+  		"productSub": "20030107",
+		"buildID": "20140716183446",
+  		"hardwareConcurrency": "2",
+		"maxTouchPoints" : "0",
+		"doNotTrack": "1",
+		"plugins": {
+		"0": {
+		"0": {
+			"type": "application/x-shockwave-flash",
+			"description": "Adobe Flash movie",
+			"suffixes": "swf"
+		},
+		"application/x-shockwave-flash": {
+			"type": "application/x-shockwave-flash",
+			"description": "Adobe Flash movie",
+			"suffixes": "swf"
+		},
+		"1": {
+			"type": "application/futuresplash",
+			"description": "FutureSplash movie",
+			"suffixes": "spl"
+		},
+		"application/futuresplash": {
+			"type": "application/futuresplash",
+			"description": "FutureSplash movie",
+			"suffixes": "spl"
+		},
+		"name": "Shockwave Flash",
+		"length": 2,
+		"description": "Shockwave Flash 15.0 r0",
+		"filename": "pepflashplayer.dll",
+		"version": "15.0.0.152"
+	},
+	"Shockwave Flash": {
+		"0": {
+			"type": "application/x-shockwave-flash",
+			"description": "Adobe Flash movie",
+			"suffixes": "swf"
+		},
+		"application/x-shockwave-flash": {
+			"type": "application/x-shockwave-flash",
+			"description": "Adobe Flash movie",
+			"suffixes": "swf"
+		},
+		"1": {
+			"type": "application/futuresplash",
+			"description": "FutureSplash movie",
+			"suffixes": "spl"
+		},
+		"application/futuresplash": {
+			"type": "application/futuresplash",
+			"description": "FutureSplash movie",
+			"suffixes": "spl"
+		},
+		"name": "Shockwave Flash",
+		"length": 2,
+		"description": "Shockwave Flash 14.0 r0",
+		"filename": "NPSWF32_14_0_0_125.dll",
+		"version": "14.0.0.125"
+	},
+			"1": {
+				"description": "Next Generation Java Plug-in 11.25.2 for Mozilla browsers",
+				"filename": "npjp2.dll ",
+				"length": 1,
+				"name": "Java(TM) Platform SE 8 U25"
+				},
+			"length":2
+				}
+    }
+}
